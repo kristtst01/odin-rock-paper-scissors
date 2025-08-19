@@ -1,3 +1,5 @@
 # odin-rock-paper-scissors
-Simple rock paper scissors game in JS.
-The code has a lot of redundancy and also handles cancellation of game badly. Focus was JS syntax, NOT clean code. Program works.
+Simple rock paper scissors game in JS, not very well written code. Learning about DOM manipulation, cases , basic JS syntax etc.
+Also, because of "alert" use the score updates after the alert.. Not good practice
+
+Now with basic UI!
